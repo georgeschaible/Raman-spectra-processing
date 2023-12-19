@@ -1,2 +1,2 @@
 # Raman-spectra-processing
-R code written for processing of Raman data and calculation of deuterium content in cells
+R code written for processing of Raman data using alkehest (https://github.com/tesselle/alkahest) and pracma (https://github.com/cran/pracma) packages. Code provides user functions for smoothing, baselining, and absolute sum normalization of data. Additionally, code is avalible for plotting data and estimating the deuterium (D) content of cells by calculating the area under the curve for isotopes of hydrogen bound to carbon at 2040-2300 cm-1 and 2800-3100 cm-1 (i.e., (CD /(CD + CH))*100).
