@@ -44,9 +44,9 @@ for (file in files) {
 combined_whole_0pct_data <- dplyr::bind_rows(data_frames, .id = "FileID")
 
 # Write the combined data to a CSV file
-write.csv(combined_whole_0pct_data, "0pct_whole_spectra.csv", row.names = FALSE)
+write.csv(combined_whole_0pct_data, "Raman_spectra.csv", row.names = FALSE)
 
 # Write the combined data to a rdata file
-save(combined_whole_0pct_data, file="0pct_whole_spectra.rdata")
+save(combined_whole_0pct_data, file="Raman_spectra.rdata")
 
 
