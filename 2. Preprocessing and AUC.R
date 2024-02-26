@@ -19,7 +19,7 @@ library(RColorBrewer)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # Load in the file saved from the txt-to-dataframe code
-Raman_spectra <- read.csv("30pct_whole_spectra.csv")
+Raman_spectra <- read.csv("Raman_spectra.csv")
 
 ################################################################################
 ############# Interactive plot to identify outliers in data set ################
