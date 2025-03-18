@@ -12,3 +12,5 @@ R code written for processing of Raman data using tidyverse (https://github.com/
   f. Calculaion of atom percent of deuterium (i.e., (CD /(CD + CH))*100).
 
 3. If desired, R code 3 provides functions to calculate wavenumber ranges using the 2nd derivative.
+
+![image](https://github.com/user-attachments/assets/11c375ee-17d9-4c31-bc3f-6312a094e832)
