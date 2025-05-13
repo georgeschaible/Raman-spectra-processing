@@ -13,4 +13,6 @@ R code written for processing of Raman data using tidyverse (https://github.com/
 
 3. If desired, R code 3 provides functions to calculate wavenumber ranges using the 2nd derivative.
 
-![image](https://github.com/user-attachments/assets/11c375ee-17d9-4c31-bc3f-6312a094e832)
+Long-term storage of the code can be found at Zenodo:
+DOI: 10.5281/zenodo.15048223
+
